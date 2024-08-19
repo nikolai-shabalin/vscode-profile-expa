@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/nikolai-shabalin/vscode-profile-expa/main/vsco
 ## Настройки профиля
 - autosave при смене фокуса
 - размер шрифта 18px
+- `git bash` - терминал по умолчанию
 
 ## Плагины 
 - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - для отслеживания отступов в коде
