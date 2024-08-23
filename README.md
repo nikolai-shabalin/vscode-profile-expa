@@ -10,10 +10,11 @@ https://raw.githubusercontent.com/nikolai-shabalin/vscode-profile-expa/main/vsco
 Solarized Light|Dark, в зависимости от системной темы
 
 ## Настройки профиля
-- autosave при смене фокуса
-- размер шрифта 18px
+- Autosave при смене фокуса
+- Размер шрифта редактора кода и терминала 18px
+- Масштаб интерфейса 120%
 - `git bash` - терминал по умолчанию
-- отключенный sticky header для редактора кода
+- Отключенный sticky header для редактора кода
 
 ## Плагины 
 - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - для отслеживания отступов в коде
